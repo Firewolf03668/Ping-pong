@@ -1,1 +1,1 @@
-# Ping-pong
+Ping Pong is a simple functional game.The game is designed for two players. Hit the ball with rackets using the keyboard keys. This game will last until one of the players loses. Enjoy this easy game and have a good time playing it! 
